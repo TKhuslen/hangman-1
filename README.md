@@ -36,7 +36,7 @@
  
  # Inline code
  
- This code was hard to learn: `<for i in range (4):>
+ This code was hard to learn: `<for i in range (4):>`
 
 
 
